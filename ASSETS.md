@@ -96,3 +96,15 @@ Fonti consultate:
 - [Grand Hotel Vesuvio, sito ufficiale](https://www.vesuvio.it/): modello procedurale ispirato al palazzo classico e al ristorante Caruso sul tetto.
 - [Royal Continental, storia ufficiale](https://www.royalcontinental.it/en/our-history/): modello procedurale con volumi geometrici, ali sfalsate e fasce di balconi.
 - [Eurostars Hotel Excelsior, sito ufficiale](https://www.eurostarshotels.it/eurostars-hotel-excelsior.html): modello procedurale ispirato al palazzo sul lungomare, con cornici, balconi e torrette. I tre alberghi sono interpretazioni cartoon distinte, distribuite una volta ciascuno per passaggio sul lungomare.
+
+## Piazza del Plebiscito, Porta Nolana e golfo
+
+Le geometrie della basilica, del colonnato, delle statue equestri, del Palazzo Reale e della porta aragonese sono interpretazioni arcade originali. Le distanze e le proporzioni sono adattate alle tre corsie.
+
+- Per la piazza e la basilica, i riferimenti sono la disposizione del Palazzo Reale di fronte al colonnato e le due statue equestri. [Italia.it, Piazza del Plebiscito](https://www.italia.it/it/campania/napoli/piazza-plebiscito) · [Basilica di San Francesco di Paola](https://tour.napoli.it/it/napoli/cosa-vedere/dettagli/basilica-di-san-francesco-di-paola)
+- Per Porta Nolana, l’arco marmoreo, le torri in piperno e il rilievo equestre derivano dallo studio del monumento. I banchi si ispirano al mercato del pesce di Vico Soprammuro. [FAI, Porta Nolana](https://fondoambiente.it/luoghi/porta-nolana) · [Soprintendenza di Napoli, beni demoetnoantropologici](https://sabap.na.it/elenco-ragionato-dei-principali-beni-di-interesse-demoetnoantropologico-della-citta-di-napoli/)
+- Il fondale distingue l’antico Monte Somma dal cono più recente del Vesuvio. [Parco Nazionale del Vesuvio, Il Gran Cono](https://www.parconazionaledelvesuvio.it/visita-il-parco/i-sentieri-del-vesuvio/il-gran-cono/)
+
+Le immagini originali elencate qui in `dist/assets/` sono state disegnate per il gioco e distribuite con la sua licenza MIT. `basoli.webp` è una texture ripetibile da 2.048 × 2.048 pixel, `pescheria.webp` è un’insegna illustrata da 1.024 × 576 pixel e `somma-vesuvio.webp` è un panorama a strati da 2.048 × 448 pixel.
+
+La mappa di rilievo `basoli-normali.webp` e le texture `asfalto.webp`, `intonaco.webp`, `increspature.webp` e `nubi.webp` sono state generate proceduralmente per il gioco. `finestra.webp`, `vetrina.webp` e `maglia-dieci.webp` sono disegni originali. Anche queste risorse sono distribuite con la licenza MIT del gioco.
