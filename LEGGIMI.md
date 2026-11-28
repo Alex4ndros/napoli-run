@@ -1,6 +1,6 @@
 # NAPOLI RUN — Motorini Madness
 
-Un endless runner 3D tra Via Toledo, Quartieri Spagnoli, Lungomare Caracciolo e Spaccanapoli. Gli otto tipi di motorini, i personaggi e gli edifici sono realizzati con geometrie procedurali. Il murale di Diego è un ritratto dipinto originale generato per questo gioco.
+Un endless runner 3D tra Via Toledo, Quartieri Spagnoli, Lungomare Caracciolo, Spaccanapoli, Piazza del Plebiscito e Porta Nolana. Gli otto tipi di motorini, i personaggi e gli edifici sono realizzati con geometrie procedurali. Il murale di Diego è un ritratto dipinto originale generato per questo gioco.
 
 ## Giocare subito
 
@@ -11,12 +11,12 @@ Per il sorgente separato, servi la cartella `dist` con un server HTTP statico. N
 ## Comandi
 
 - A / D oppure frecce sinistra / destra: cambia corsia.
-- Spazio / W / freccia su: salta casse, pizze, sacchi e buche.
+- Spazio / W / freccia su: salta casse di frutta o di pesce, pizze, sacchi e buche.
 - S / freccia giù: scivola sotto il bucato.
 - P / Esc: pausa e riprendi.
 - Su telefono: scorri nelle quattro direzioni o usa i pulsanti touch.
 
-I motorini, le sedie e i carretti si evitano cambiando corsia. Raccogli le fette dorate e sfiora i motorini per aumentare il moltiplicatore. Ogni 450 metri cambia il quartiere. La velocità aumenta gradualmente senza un tetto massimo; le ondate diventano più ravvicinate.
+I motorini, le sedie e i carretti si evitano cambiando corsia. Raccogli le fette dorate e sfiora i motorini per aumentare il moltiplicatore. Scegli la partenza nel menu. Ogni 450 metri cambia il quartiere e ogni giro di 2.700 metri li attraversa tutti e sei. RIPROVA rimescola le cinque tappe successive. Le scie di pizza indicano una corsia libera. Alcune disegnano un arco da seguire saltando. La velocità aumenta gradualmente senza un tetto massimo; le ondate diventano più ravvicinate.
 
 ## Potenziamenti
 
@@ -48,3 +48,5 @@ I dettagli sull’immagine generata e il prompt sono in `ASSETS.md`.
 ## Quartieri aggiornati
 
 Via Toledo: undici tipi di vetrine, con MINISO e i pupazzi, Intesa Sanpaolo con bancomat, Leopoldo Infante e i dolci, KIKO e i cosmetici, oltre a ZARA, H&M, Bershka, ottica, calzature e bar. Galleria Umberto I stilizzata. Quartieri Spagnoli: facciate ravvicinate, bucato, bandiere azzurre con N circolare, piazzetta di Diego e due murales reali di Totò su lati opposti: il ritratto e **A Matt’!!**, la carta del re di denari firmata MR PENCIL. Lungomare: pizzerie, dehors e tre grandi alberghi distinti ispirati a **Grand Hotel Vesuvio**, **Royal Continental** ed **Excelsior**, una volta ciascuno per passaggio, oltre al singolo Castel dell’Ovo sulla destra. Spaccanapoli: pietra, librerie, cornicelli, botteghe, bancarelle e guglia. Il percorso è una ricostruzione arcade ispirata ai luoghi, non una mappa fedele.
+
+In Piazza del Plebiscito corri tra Palazzo Reale, le due statue equestri e il colonnato di San Francesco di Paola. A Porta Nolana passi sotto l’arco, fra le torri di piperno e i banchi con alici, cozze e polpi. Il selciato usa una texture di basoli da 1.024 × 1.024 pixel. Il fondale del golfo distingue il Monte Somma dal Gran Cono. La risoluzione del gioco segue la densità dello schermo fino a 3× e contiene il numero di pixel entro l’equivalente di un fotogramma 4K UHD.
