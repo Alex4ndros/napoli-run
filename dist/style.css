@@ -14,3 +14,8 @@ body.playing #district{top:112px;bottom:auto;left:50%;right:auto;transform:trans
 .departure select{pointer-events:auto;min-width:0;flex:1;padding:8px 4px;background:#fff4dce8;color:var(--navy);border:1px solid #082e4350;border-radius:5px;font:700 14px Arial,sans-serif}
 .departure select:focus-visible{outline:3px solid #f87c40;outline-offset:3px}
 @media(max-width:750px){.departure{width:238px;margin:18px 0 14px}.departure select{font-size:13px}}
+
+.graphics-setting{display:flex;align-items:center;gap:8px;padding:5px 9px;background:#fff5e8e8;border:1px solid #082e4326;border-radius:8px;font-size:11px;font-weight:700;color:var(--navy)}
+.graphics-setting select{background:transparent;border:0;color:inherit;font:inherit;padding:5px 0;cursor:pointer}
+.graphics-setting select:focus-visible{outline:2px solid #087688;outline-offset:2px}
+@media(max-width:750px){.top-actions{gap:6px}.graphics-setting{flex-direction:column;gap:0;align-items:flex-start;padding:3px 6px}.graphics-setting span{font-size:8px}.graphics-setting select{padding:1px 0}}
